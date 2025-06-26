@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about technology, learning, and bui
 ## 🌱 Currently Learning
 - React.js & Next.js
 - Node.js & Express.js
-- PostgreSQL & MySQL
+- PostgreSQL & MySQL and MongoDB
 
 ---
 
@@ -33,6 +33,7 @@ Welcome to my GitHub profile! I'm passionate about technology, learning, and bui
 - Email: `princenkundimana026@gmail.com`
 - LinkedIn: [Prince Nkundimana](https://www.linkedin.com/in/prince-nkundimana-251337285 )
 - Instagram: [@prince_valiant]( https://www.instagram.com/prince_valiant1?igsh=YzljYTk1ODg3Zg== )
+- Portfolio: [Prince Nkundimana](https://reactportfolio-portfolio.onrender.com)
 
 ---
 
