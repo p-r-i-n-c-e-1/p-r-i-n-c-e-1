@@ -5,12 +5,12 @@ Welcome to my GitHub profile! I'm passionate about technology, learning, and bui
 ---
 
 ## 👀 Interests
-- 🌐 Web Development (Front-end & Back-end)
-- 🧠 Artificial Intelligence & Machine Learning
+- 🌐 Web Development (Front-end)
+- 🧠 Networking 
 - 📱 Mobile App Development
 - 🔐 Cybersecurity
 - 💻 Open Source Projects
-- ⭐ Graphic Design
+- ⭐ Graphic Design (UI & UX)
 
 ---
 
